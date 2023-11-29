@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1701192313 "/Users/oj/Documents/LaTeX-Templates/Lecture Notes/main.tex" "build/main.pdf" "main" 1701192313 0
+["pdflatex"] 1701253338 "/Users/oj/Documents/LaTeX-Templates/Lecture Notes/main.tex" "build/main.pdf" "main" 1701253339 0
   "/Users/oj/Documents/LaTeX-Templates/Lecture Notes/main.tex" 1701192312 8362 19508a0ce1da94a1e927e8d75ecf8b8d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newpx/zpl_TOsF.enc" 1638997615 2697 c0e4acf9af2683eef1d80f88a94044c0 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1640468671 2914 8283dfc24eaf1964346f843d7605c2b0 ""
@@ -146,10 +146,10 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1701186423 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1701186363 7883458 6f2b797840a02ffca6bbc4704ac17e06 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Lectures/Lecture1.tex" 1701192214 362 394df72168e4b24fd4e2f15b532fa2b7 ""
-  "build/main.aux" 1701192313 1021 492f21c1ca52305b608f1d950adc083e "pdflatex"
-  "build/main.out" 1701192313 596 18e96e5a77fb33ff5c15d02f8b59439e "pdflatex"
-  "build/main.toc" 1701192313 275 50effb8c9e7fcd5e649030c24780cc00 "pdflatex"
+  "Lectures/Lecture1.tex" 1701253337 362 394df72168e4b24fd4e2f15b532fa2b7 ""
+  "build/main.aux" 1701253339 1021 492f21c1ca52305b608f1d950adc083e "pdflatex"
+  "build/main.out" 1701253339 596 18e96e5a77fb33ff5c15d02f8b59439e "pdflatex"
+  "build/main.toc" 1701253339 275 50effb8c9e7fcd5e649030c24780cc00 "pdflatex"
   "main.tex" 1701192312 8362 19508a0ce1da94a1e927e8d75ecf8b8d ""
   (generated)
   "build/main.aux"
